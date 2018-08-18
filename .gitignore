@@ -1,0 +1,7 @@
+content/*/chapter-*/*.jpg
+content/*/chapter-*/*.png
+index.tmp
+public
+.DS_Store
+
+content/song-tu-dao-lu-cua-toi*

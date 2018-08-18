@@ -1,0 +1,17 @@
+{ "title": "tuyet-the-duong-mon/chapter-97", "weight": 97 }
+<img src="tuyet-the-duong-mon_0097_01-6cdec7c967d2fc01483c04ba006e2c91.webp" alt="page-1" origin="http://1.bp.blogspot.com/-rUXG-6oY8-8/WJxd0IOfI0I/AAAAAAAAPoQ/YXUZpuA-qIYQ8jKD-OCcCIkRka8bbF0QgCLcB/s1600/1.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_02-337e989e3e7aadfd04d096d18ff55eeb.webp" alt="page-2" origin="http://1.bp.blogspot.com/-Bii_SDB2rxc/WJxd1aNrIQI/AAAAAAAAPok/Xwasi7HNb1MqeWiW0YLxGKsJvjcvMl47QCLcB/s1600/2.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_03-bd159f952524581aa6d99a1befd02f0a.webp" alt="page-3" origin="http://1.bp.blogspot.com/-ekHaqRCYw8M/WJxd1lihFtI/AAAAAAAAPos/Be0xef2XYcEbqWSRbK3Ylja6dHwsyVlWgCLcB/s1600/3.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_04-054ada1798f5b5af1dcfadaee2c89697.webp" alt="page-4" origin="http://1.bp.blogspot.com/-NKHaIarX4Cw/WJxd2ALPy_I/AAAAAAAAPow/Xvigi86Hhe8pVW1gsQHVphmTqu8lYegJQCLcB/s1600/4.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_05-a6010fe7c45b1963651579713dc119ce.webp" alt="page-5" origin="http://1.bp.blogspot.com/-ZyrWEcO_JyE/WJxd2E9BYCI/AAAAAAAAPo0/Csh76Q8bz4I_rDdBXwR9FjtxaMrJUNhjgCLcB/s1600/5.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_06-730c17b14b5dd3a8f536b8cd61250a7c.webp" alt="page-6" origin="http://1.bp.blogspot.com/-m9G2w2uLaaM/WJxd2Sz_1oI/AAAAAAAAPo4/rnIayPGjlFQ2jDQYrCL9VFmgImlgtFYiwCLcB/s1600/6.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_07-ec8c0b2369eb3cd7f98ff03af5a8e106.webp" alt="page-7" origin="http://1.bp.blogspot.com/-8XZBJX3UbMY/WJxd2rlZhfI/AAAAAAAAPpA/iQY4gayQBSgGmXGzYAIP6_ZnX9dtILV5gCLcB/s1600/7.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_08-8b793350cb794a017cd470ff4d826ab7.webp" alt="page-8" origin="http://1.bp.blogspot.com/-mj6Pg03wwaY/WJxd2vG2N8I/AAAAAAAAPo8/ZdN5FH8IPlU4DoYKQ-igiO5LNWPG-aMUwCLcB/s1600/8.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_09-5a899d75c0b82b7d980dcae76301886c.webp" alt="page-9" origin="http://1.bp.blogspot.com/-tJ9le446EL0/WJxd2xLBcvI/AAAAAAAAPpE/guhMZ7J3K60YHdWOdNdM88aunmgZRHgQACLcB/s1600/9.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_10-e99a9a495d4694bbf530df91f99bd6e3.webp" alt="page-10" origin="http://1.bp.blogspot.com/-CxvMY-NYNpc/WJxd0N0fcLI/AAAAAAAAPoI/lXT0hYw-aW0gbrHwyw27yH-aDlkNVGQcwCLcB/s1600/10.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_11-644585efe32f8023da8dcfdca8e53051.webp" alt="page-11" origin="http://1.bp.blogspot.com/-JYFfLL8M2P0/WJxd0oIVEeI/AAAAAAAAPoU/AIbzKQqKa0UFLLdQLRM9zpkPn-k6zWKAwCLcB/s1600/11.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_12-154bff5e03e48bef29e72f5f64a49947.webp" alt="page-12" origin="http://1.bp.blogspot.com/-NyRcuVQu5F4/WJxd01p1rHI/AAAAAAAAPoY/bCf6VPWFQHoJLlAFWjfwGpdSaKyjf-3iwCLcB/s1600/12.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_13-09ba88cc245e7c98c9dc66d2558c0789.webp" alt="page-13" origin="http://1.bp.blogspot.com/-3eiMDPH3-Qw/WJxd1GIPVbI/AAAAAAAAPoc/wsNQ28zr2iAME-0tC0taZMvkRT6dr4DBACLcB/s1600/13.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_14-f431b11cde1b06bcaa7d890e4e3b067f.webp" alt="page-14" origin="http://1.bp.blogspot.com/-W1jfI4vCGlU/WJxd1PK0VuI/AAAAAAAAPog/LG-CwZmC_4gRTdS_KEL3z0MjRh9ykLncQCLcB/s1600/14.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0097_15-4e63e4a3770f0e45af6d6ddbec22c770.webp" alt="page-15" origin="http://1.bp.blogspot.com/-EIwqCQyKR1k/WJxd1dFGRlI/AAAAAAAAPoo/blREk2nGvvkVszwOtflC18wG9xQE3WGeQCLcB/s1600/15.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/tuyet-the-duong-mon/chapter-98">chapter-98</a>

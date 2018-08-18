@@ -1,0 +1,7 @@
+#!/usr/bin/ruby
+
+require './crawler.rb'
+
+story, nextchap, start, max = ["yeu-than-ky", "yeu-than-ky-(ht)-chapter-1", 1]
+story, nextchap, start, max = ARGV unless ARGV.empty?
+Crawler::crawl(story, nextchap, start, max)

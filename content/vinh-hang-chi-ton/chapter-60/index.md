@@ -1,0 +1,19 @@
+{ "title": "vinh-hang-chi-ton/chapter-60", "weight": 60 }
+<img src="vinh-hang-chi-ton_0060_01-85878b080c7e0247f1198042f7c657da.webp" alt="page-1" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-02.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_02-587b9217ee0bc273a9570ea185500409.webp" alt="page-2" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-03.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_03-5db50a5612b8518db931e1df4011532b.webp" alt="page-3" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-04.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_04-18149480c0061fedfe893d82028f4c43.webp" alt="page-4" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-05.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_05-52ae0398703160e15159c38a3121f22e.webp" alt="page-5" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-06.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_06-b25195dd563bcaf380a7e6a2ce62ad5b.webp" alt="page-6" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-07.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_07-5c843a75feff2314779eb219a61fc8cb.webp" alt="page-7" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-08.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_08-1650e2e4e53328c53a6077cccff121dd.webp" alt="page-8" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-09.jpg"><br/>
+<img src="http://adx.kul.vn/www/delivery/avw.php?zoneid=263&amp;cb=1525544253&amp;n=af995ff0" alt="page-9" origin="http://adx.kul.vn/www/delivery/avw.php?zoneid=263&amp;cb=1525544253&amp;n=af995ff0"><br/>
+<img src="vinh-hang-chi-ton_0060_10-b81ba7a5770b1602d70a508a090087fc.webp" alt="page-10" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-10.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_11-d6faad14eb4bef0ae7777fd7bb0d6603.webp" alt="page-11" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-11.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_12-536b08759531b1997e3999ebbbbd5a2e.webp" alt="page-12" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-12.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_13-76369f9cd1fca5c335c642ef09b02cb9.webp" alt="page-13" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-13.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_14-356adf7f5585fdde08989fa73fbc1e0f.webp" alt="page-14" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-14.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_15-cb48a67d46dadc24d1a9a4a160e40fbe.webp" alt="page-15" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-15.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_16-1650aa60fa16e4eb8694ff117a9bbfe2.webp" alt="page-16" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-16.jpg"><br/>
+<img src="vinh-hang-chi-ton_0060_17-b506a7f5096bb6f982682d8ce56a7990.webp" alt="page-17" origin="http://storage.fshare.vn/Test-vechai/1512877638-Vinh-Hang-Chi-Ton-Chapter-60-Tieng-viet-hamtruyencom-ve-chai-17.jpg"><br/>
+<br/><a class="nextchap" href="/vinh-hang-chi-ton/chapter-61">chapter-61</a>

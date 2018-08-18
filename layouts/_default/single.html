@@ -1,0 +1,20 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+{{ define "header" }}
+  {{ partial "menu.html" . }}
+{{ end }}
+{{ define "main" }}
+  <header>
+    <h1>{{ partial "chapters-selection" . }}
+      / <a href="{{ .Parent.URL }}">{{ replaceRE "^([^/]+).*" "$1" .Title }}</a>
+      / <a href="/">TT3G</a></h1>
+  </header>
+  {{ .Content }}
+  <script src={{ "/touch.js" }}></script>
+  <script async src="https://webencoder.libbpg.org/js/bpgdec8.js"></script>
+  <script async src="https://chasemoskal.com/webp-hero/dist/webp-hero.polyfill.bundle.js"></script>
+{{ end }}
+{{ define "footer" }}
+  <!-- {{ partial "powered-by.html" . }} -->
+{{ end }}

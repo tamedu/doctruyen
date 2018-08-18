@@ -1,0 +1,19 @@
+{ "title": "vinh-hang-chi-ton/chapter-27", "weight": 27 }
+<img src="vinh-hang-chi-ton_0027_01-443f9801b18be02c94c92095378bdf1f.webp" alt="page-1" origin="https://1.bp.blogspot.com/-095HKWXHjVA/WWBGjjV7-TI/AAAAAAAAtz8/nydrRNPlPiIhodM7AZMAqneSHo_0XDRKACHMYCw/s0/1.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_02-aa0edaa7a6a8003a3109efc870eca123.webp" alt="page-2" origin="https://1.bp.blogspot.com/-_o1EgImkou0/WWBGk-2hcBI/AAAAAAAAt0A/G5jaKcEwrKAjGSfsGMFEswYtMLplD0prgCHMYCw/s0/2.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_03-a7fb997f2bae26a9b482fe41da708ee6.webp" alt="page-3" origin="https://1.bp.blogspot.com/-qJaOf2bsjLM/WWBGmIEkDoI/AAAAAAAAt0E/F3tPeM71HzAdDGIDbL0JFkjCTN1XbL5zwCHMYCw/s0/3.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_04-a98dde6849fe4abec9b7f3b0b398dc27.webp" alt="page-4" origin="https://1.bp.blogspot.com/-D6GJob5CDYk/WWBGnksvHYI/AAAAAAAAt0I/zro72GJSKOQm03MAnrBSZFuZ30IMyTT0ACHMYCw/s0/4.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_05-8b383f0ca8286d82957a57395903324e.webp" alt="page-5" origin="https://1.bp.blogspot.com/-vYjSJFO_6DU/WWBGpZP3kAI/AAAAAAAAt0M/I7KSPaIuqKcAOSe30k-jVGIUTMozXVA0ACHMYCw/s0/5.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_06-dcd2912c172f51847969964b094f64f1.webp" alt="page-6" origin="https://1.bp.blogspot.com/-4Id3JvD_06c/WWBGrmeo5FI/AAAAAAAAt0Q/4l1KY3FVb2UwquvlPZMSDjhV5I7VD4OhwCHMYCw/s0/6.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_07-44efd675ed5171b7401eaa26706ce167.webp" alt="page-7" origin="https://1.bp.blogspot.com/-6m0B6-Fj2MI/WWBGtuQJDxI/AAAAAAAAt0U/_iion-yWr1UcZG_nJl3F6-MI_eMzoBdDACHMYCw/s0/7.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_08-473a4879105bc75a933b4fddd88f42af.webp" alt="page-8" origin="https://1.bp.blogspot.com/-paKusFDp7BY/WWBGvT7C7TI/AAAAAAAAt0Y/PS0LSyKD9K81bOk637NKHHfk3H5g0rC9ACHMYCw/s0/8.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_09-768e14fd291fe37ac03c8b41d0ec08bd.webp" alt="page-9" origin="https://1.bp.blogspot.com/-uVPMj3w75q4/WWBGxZNNoHI/AAAAAAAAt0c/4zLf0EMI0yoi89lLNX20oOwMhmRZaPf1wCHMYCw/s0/9.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_10-417da96ae2f37ab536a8612b19055aa1.webp" alt="page-10" origin="https://1.bp.blogspot.com/-mqskHNw6yQs/WWBGymqYm8I/AAAAAAAAt0g/EzcZOl5-EUsurgS3sjh9JQ2twWEfOkQ1gCHMYCw/s0/10.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_11-0366f608283ba5aa0404dde5720a3dde.webp" alt="page-11" origin="https://1.bp.blogspot.com/-uvJLn-NEjUU/WWBGz4MsVsI/AAAAAAAAt0k/kuDgPX---Q4Lv8VJTwUEt5HZkY0hhUttwCHMYCw/s0/11.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_12-19dff8a5da44bc5def565b634a92996a.webp" alt="page-12" origin="https://1.bp.blogspot.com/-XqojWGW9Dho/WWBG1U6n7II/AAAAAAAAt0o/4Dp37KKbH1kLkh0d6EO2KumCNVHQ0xbIACHMYCw/s0/12.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_13-c9efa9a3bb4c31880f54f388b6cc18e6.webp" alt="page-13" origin="https://1.bp.blogspot.com/-cgUnuAOVMgc/WWBG2v5zAZI/AAAAAAAAt0s/eUH56WfXxtY0hx9SP0PqIXwAAiDpxFX9gCHMYCw/s0/13.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_14-52dcdba5fbcd70f07c45c79cd16df323.webp" alt="page-14" origin="https://1.bp.blogspot.com/-Yhavu0ug5fk/WWBG4SRooqI/AAAAAAAAt0w/Xn2sEp3yuVck2i5bygTtH9GuBD7AKcAswCHMYCw/s0/14.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_15-772c99a1dbbd2a01370eda54720f3c12.webp" alt="page-15" origin="https://1.bp.blogspot.com/-S4ISA-GIHMw/WWBG56UXxaI/AAAAAAAAt00/hvtQ1Xpg0fkrqEf8SQNy94A8VitLv00jACHMYCw/s0/15.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_16-9530f45297f072d16675f1493777f83e.webp" alt="page-16" origin="https://1.bp.blogspot.com/-zjEwEi2h85Y/WWBG7sGqvRI/AAAAAAAAt04/5t5VY_jIcdocgDtLnjxebT6m8d6MZRLfQCHMYCw/s0/16.jpg"><br/>
+<img src="vinh-hang-chi-ton_0027_17-79d9a90e59919f5fe178c826deac3c52.webp" alt="page-17" origin="https://1.bp.blogspot.com/-u54hoFJcSMU/WWBG9vG96FI/AAAAAAAAt08/1W3TYzYPk1AhcveLytJ-j51WuNHgNThUgCHMYCw/s0/17.jpg"><br/>
+<br/><a class="nextchap" href="/vinh-hang-chi-ton/chapter-28">chapter-28</a>

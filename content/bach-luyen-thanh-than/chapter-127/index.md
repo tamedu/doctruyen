@@ -1,0 +1,18 @@
+{ "title": "bach-luyen-thanh-than/chapter-127", "weight": 127 }
+<img src="bach-luyen-thanh-than_0127_01-6447da8ec98447096823c4b39543ea63.webp" alt="page-1" origin="http://1.bp.blogspot.com/-deXlgJcpXSQ/WXAkmB2rLvI/AAAAAAAAx9Q/l9MEfXdf3VYlpl3Bh1IXQTQP1x6DCU0AgCHMYCw/2.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_02-7e51c3d6745ddbe8402801a32892728c.webp" alt="page-2" origin="http://1.bp.blogspot.com/-ABU5RV-qyoQ/WXAkn8CRYTI/AAAAAAAAx9U/9kzuyzZTQrAyWQKZRnbsJkmWF5pj4HS7QCHMYCw/3.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_03-107b09a942dabcc2ca0d8651156c2d0f.webp" alt="page-3" origin="http://1.bp.blogspot.com/-8BaHFcqd7dU/WXAkpJf8SlI/AAAAAAAAx9Y/ize9mX_kVqo8PqYOhf1ybgRzfRC3ogf6ACHMYCw/4.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_04-9951dc72f3faf8abc1acee0765460c9e.webp" alt="page-4" origin="http://1.bp.blogspot.com/-N7bML_CNzjs/WXAkqocDySI/AAAAAAAAx9c/qu0lmasIDWYQrYsxxknBEtUNd1E1GgSfwCHMYCw/5.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_05-2639e9b03db2e6bc5feb7a623f16e565.webp" alt="page-5" origin="http://1.bp.blogspot.com/-BSNYRzF4EX0/WXAksT8Ee9I/AAAAAAAAx9g/9xub64NyxJ0p2ITkzLmjDKzUZ5O8fGXJgCHMYCw/6.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_06-d2e514f995b8ac05df0a710c32edd06a.webp" alt="page-6" origin="http://1.bp.blogspot.com/-ZljWHVEm9-Y/WXAktyt5zYI/AAAAAAAAx9k/MNArBDuuK4IEJyHE4p0mzLGV0KA9wxNFwCHMYCw/7.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_07-d8e8819d3f28d407282568f82b6c44cf.webp" alt="page-7" origin="http://1.bp.blogspot.com/-SEG3G8oJuCs/WXAku45OavI/AAAAAAAAx9o/MxKabnjSlGYoto4duoqKuX5qk3JFgJwOwCHMYCw/8.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_08-7c82390823dc1e858bf732fc4bd4da37.webp" alt="page-8" origin="http://1.bp.blogspot.com/-Vf76zr3Sm6Q/WXAkwLILawI/AAAAAAAAx9s/CICsGOwqbjkybtSilDj28C4P5K2t2f1CACHMYCw/9.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_09-76e901f834e1ab4f1beacbc41ed3efbd.webp" alt="page-9" origin="http://1.bp.blogspot.com/-BTzo8rGvvnQ/WXAkxv54qkI/AAAAAAAAx9w/rHyYjV_tjmUUIVkBvgl5ivsvt3xDf33mACHMYCw/10.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_10-9a2be2dd2971079ebf145a2ba2db276e.webp" alt="page-10" origin="http://1.bp.blogspot.com/-ONbBhGgUMMw/WXAkzcutXtI/AAAAAAAAx90/o93qyc3IWd0henmt49Xk0xFUqmV6uCepACHMYCw/11.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_11-934e5f53482a95116bec85dd3e16f397.webp" alt="page-11" origin="http://1.bp.blogspot.com/-i4tvyzGzSkM/WXAk0tGrY4I/AAAAAAAAx94/e0IFcfxVgvQEqV70C4k7TJv-5ViOe8CmACHMYCw/12.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_12-1b13d79953b2de739687e7a995eb9023.webp" alt="page-12" origin="http://1.bp.blogspot.com/-MmPyM_1mqmk/WXAk1wo-MkI/AAAAAAAAx98/qSS7viGRH6Ioe7gXsjpkoOGP-hKSE9WwACHMYCw/13.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_13-846dddbe9154fdfcb5fe971a59e395d1.webp" alt="page-13" origin="http://1.bp.blogspot.com/-EcZVLYOrNmA/WXAk41pnJSI/AAAAAAAAx-A/qCjvj0ss6ooC6LY5a6cbP2LXPK6mq5ECgCHMYCw/14.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_14-8db4087c117015f324f0e0903de302b7.webp" alt="page-14" origin="http://1.bp.blogspot.com/-v2lDShvNo3g/WXAk6w9PduI/AAAAAAAAx-E/NhRKV4WyeCYTRMavE24gNDVrquimnGLkwCHMYCw/15.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_15-9c5d3d9e96c46a2df5bf17669c8c0814.webp" alt="page-15" origin="http://1.bp.blogspot.com/-UdACn2aFA4I/WXAk8PfYQAI/AAAAAAAAx-I/oi4Bfmc4ay8RMwSTk5UzZTq0fAhTiyXEgCHMYCw/16.jpg?imgmax=0"><br/>
+<img src="bach-luyen-thanh-than_0127_16-2dec31fd27fab445dcf072767290856d.webp" alt="page-16" origin="http://1.bp.blogspot.com/-k-YE8_y3UhE/WXAk9euNC0I/AAAAAAAAx-M/yPjLZncDfyEMmHitStubc4TB5-Jh-wXRwCHMYCw/17.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/bach-luyen-thanh-than/chapter-128">chapter-128</a>

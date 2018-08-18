@@ -1,0 +1,13 @@
+{ "title": "tinh-vo-than-quyet/chapter-39", "weight": 39 }
+<img src="tinh-vo-than-quyet_0039_01-4385bbf6019874fb0ffdc9049af4bd7c.webp" alt="page-1" origin="http://1.bp.blogspot.com/-2sVKHovFq0U/WLVVZSkDslI/AAAAAAAAYas/y2PLEF9tElU4I2snqb9b8n9BX29GiyjWgCLcB/s1600/1.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_02-ef3d4812ea99162203c21bf55d0d016a.webp" alt="page-2" origin="http://1.bp.blogspot.com/-P7zo_2jp7R0/WLVVZ9SAHMI/AAAAAAAAYa4/lMFTYaSQqVwCjFrAqILBA0JFE53Mz4UaACLcB/s1600/2.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_03-b08cc57887ac0cb6ca3e937e9c679801.webp" alt="page-3" origin="http://1.bp.blogspot.com/-5Ee8X7rQ50w/WLVVaNLadOI/AAAAAAAAYa8/COdIUhP6KwEQjM_QuCR9HpfknKpIgGiRACLcB/s1600/3.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_04-7b6c6b184d93b007c1152a0bbbceb547.webp" alt="page-4" origin="http://1.bp.blogspot.com/-WLADH1SlAmc/WLVVaSwee2I/AAAAAAAAYbA/I4xeLcUm2JABHj8REyCjlMFUQoc2FwYxQCLcB/s1600/4.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_05-3f8a0eb1304313c974594ee1223c7382.webp" alt="page-5" origin="http://1.bp.blogspot.com/-lQPt32etQ1E/WLVVaqlRSXI/AAAAAAAAYbE/qRG5kwDhvdYaNtayHzYkn1hrUx1grl6SQCLcB/s1600/5.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_06-41e291b240a253ac10c11a4ca267bc81.webp" alt="page-6" origin="http://1.bp.blogspot.com/-SYdWogYmjFU/WLVVax07ZdI/AAAAAAAAYbI/WDVFS_Z_Hqwcyi70EgAW4i71hllv3SNcgCLcB/s1600/6.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_07-003874014d040c4fa3cf8f8fcec39252.webp" alt="page-7" origin="http://1.bp.blogspot.com/-b5nDpRPmNnQ/WLVVbJlggVI/AAAAAAAAYbM/fX5c8T6gDgcvmw5Tt2-zHYvoMqEFIZm6wCLcB/s1600/7.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_08-8ced428ca5fbe080192f99fcaa323bc2.webp" alt="page-8" origin="http://1.bp.blogspot.com/-1GloSdQng-w/WLVVbJh9DJI/AAAAAAAAYbQ/8fLwi_jXduIpen2pT2B7nrKRVFvRVjLoACLcB/s1600/8.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_09-efcc17a2ac5d96de2cfa36e265c2b654.webp" alt="page-9" origin="http://1.bp.blogspot.com/-YJhmcnL4OSQ/WLVVbeRhsKI/AAAAAAAAYbU/ZfP8ZdUqkAgCVF5C3vepPMmrARGhz-VUwCLcB/s1600/9.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_10-4d094707f2c7784f3c62ae08e53de1f2.webp" alt="page-10" origin="http://1.bp.blogspot.com/-Kb0Uqfvt5wQ/WLVVZbT3BRI/AAAAAAAAYaw/MONgGFiuVLormAZwrdlkFOrmNQRqyDBHgCLcB/s1600/10.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0039_11-4f917d08f621cdd760a2ee18ad81476e.webp" alt="page-11" origin="http://1.bp.blogspot.com/-KUkUZqnmr7s/WLVVZ_DNbNI/AAAAAAAAYa0/MIyeBF-yxKkIxCgXzxCZrMB9w8M8vJiIgCLcB/s1600/11.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/tinh-vo-than-quyet/chapter-40">chapter-40</a>

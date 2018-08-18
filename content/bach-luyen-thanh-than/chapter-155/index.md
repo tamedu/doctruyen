@@ -1,0 +1,19 @@
+{ "title": "bach-luyen-thanh-than/chapter-155", "weight": 155 }
+<img src="bach-luyen-thanh-than_0155_01-41f7b6f48af2937788c912155efa0943.webp" alt="page-1" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-02.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_02-dddca7ff9785a5be0f5a5247ac0c48df.webp" alt="page-2" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-03.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_03-0b9c6ea85f0e98ef312ecb4e055c1b16.webp" alt="page-3" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-04.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_04-9f8199e67ef093058323e8507baa0602.webp" alt="page-4" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-05.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_05-d645d358fea32f185a1a7b0daf224cd8.webp" alt="page-5" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-06.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_06-c1f8fbb40e514a920d80d2d34909bf9a.webp" alt="page-6" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-07.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_07-9a5eea565067f3c835be5d3e81457f7b.webp" alt="page-7" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-08.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_08-d3262ccda73686118664850bb9e7a675.webp" alt="page-8" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-09.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_09-b04b8cdb0ffb0f9b2ba4592692ff2069.webp" alt="page-9" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-10.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_10-b334d0bdedc868a22a6ab0fb98182322.webp" alt="page-10" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-11.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_11-9b6142968b9a1bc0c158f755b1bcf542.webp" alt="page-11" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-12.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_12-0a4ddfc4413ade87cea334291b73f6e1.webp" alt="page-12" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-13.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_13-c4d96d30e1d910a03a2b727e176d8ca5.webp" alt="page-13" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-14.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_14-75f225b7e2f9370a972f76d04d7f30a6.webp" alt="page-14" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-15.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_15-23090ec3fd227eb509d61462813f9782.webp" alt="page-15" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-16.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_16-2716dce6defb44882ef1965662abc0ca.webp" alt="page-16" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-17.jpg"><br/>
+<img src="bach-luyen-thanh-than_0155_17-a64edf1007711e56e0703c4e251f658a.webp" alt="page-17" origin="http://storage.fshare.vn/Test-vechai/1507003091-Bach-Luyen-Thanh-Than-Chapter-149-Hamtruyenvn-ve-chai-18.jpg"><br/>
+<br/><a class="nextchap" href="/bach-luyen-thanh-than/chapter-156">chapter-156</a>

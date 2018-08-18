@@ -1,0 +1,17 @@
+{ "title": "toi-cuong-he-thong/chapter-4", "weight": 4 }
+<img src="toi-cuong-he-thong_0004_01-8e6488f638d3ba4711287967908a801e.webp" alt="page-1" origin="http://1.bp.blogspot.com/-16_-myLPjXQ/W2X6t9gtr-I/AAAAAAAAQHc/dNip0kyAEC4ylqDN9YhOuLc9KX4j-b0cgCLcBGAs/s1600/1.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_02-8a9232359e994e92510d3bde969f04b8.webp" alt="page-2" origin="http://1.bp.blogspot.com/-A_XQtf-8pdo/W2X6wZnq9CI/AAAAAAAAQH4/VTSG7Wn12KQBgNCQXMahQrUaZlEFYtstgCLcBGAs/s1600/2.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_03-41aa5c5f3b003dd0209bbd526acebadd.webp" alt="page-3" origin="http://1.bp.blogspot.com/-1Du_mduV5V8/W2X6wpjAoFI/AAAAAAAAQH8/Fz-AEDAcESgvvdr6bgmCXkABmTRM9MTRwCLcBGAs/s1600/3.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_04-b99166af46ad22f3095a1072b485c57a.webp" alt="page-4" origin="http://1.bp.blogspot.com/-bCHcYuDjZN8/W2X6xZHNhNI/AAAAAAAAQIA/qlNkKacmmewqGYK2chiKNEYAw7RjI5u9gCLcBGAs/s1600/4.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_05-74af101c7a68cc08f2fd8c966a4c7da3.webp" alt="page-5" origin="http://1.bp.blogspot.com/-NlFbG1bhz7k/W2X6xms65cI/AAAAAAAAQIE/k4PflgTTyJI9rcQkZPGlEkxt9YGQMWRAgCLcBGAs/s1600/5.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_06-4b8cdad896b9013b443a9f6a31d70ff2.webp" alt="page-6" origin="http://1.bp.blogspot.com/-G6X1blmAU-w/W2X6xvfA7wI/AAAAAAAAQII/wKNjeR88904CBKbArEjIFq3vImSClGJnACLcBGAs/s320/6.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_07-22f9091b4406544d1ec19f8613ccc195.webp" alt="page-7" origin="http://1.bp.blogspot.com/-oAxo9gSIm0U/W2X6yUHIS6I/AAAAAAAAQIM/9pg6MROOP2Q2Dn-1b78JPpAC0TUVh72cwCLcBGAs/s1600/7.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_08-6ceed1c4ef9c2d93ddcaf8e3d43d9722.webp" alt="page-8" origin="http://1.bp.blogspot.com/-yp2PRLAiOw4/W2X6yjXKZAI/AAAAAAAAQIQ/TUhH993Q8RY0uIV9ySq5kLxU_sj-jXs4QCLcBGAs/s1600/8.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_09-7679ebf4bbac7964debc92df74cad815.webp" alt="page-9" origin="http://1.bp.blogspot.com/-4pHSj7xFpsU/W2X6y9he3VI/AAAAAAAAQIU/fwU2acAfg8UO-WRs8DuTVGd36j6fD9VyQCLcBGAs/s1600/9.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_10-2f3474306b7e3169e25004cf458a11c5.webp" alt="page-10" origin="http://1.bp.blogspot.com/-eQ5EHiwSrbA/W2X6t4CIkPI/AAAAAAAAQHg/tcTc1j5lMnQthG6kK_ArpSF8xrYJBR9egCLcBGAs/s1600/10.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_11-806b8c6eba8c09abc102a99430382c0d.webp" alt="page-11" origin="http://1.bp.blogspot.com/-tKeRNMqqHh4/W2X6t-grwcI/AAAAAAAAQHk/VONdbgswNu8fFbpKhYKPzDh_2YmuDqm7QCLcBGAs/s1600/11.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_12-5eb27fbbb22f08bbeb1db1bd8a3ce849.webp" alt="page-12" origin="http://1.bp.blogspot.com/-r6C5XxN1JeU/W2X6vCITYwI/AAAAAAAAQHo/Ls7qvMhz8-0qf39n9h3ZO7QIaap-s_3lgCLcBGAs/s1600/12.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_13-d086e8752144500ed6ed63ad75919d63.webp" alt="page-13" origin="http://1.bp.blogspot.com/-EQ5JpvjluZg/W2X6vLP-_0I/AAAAAAAAQHs/SC8yAMoDc50aDP25wziwlHPLw9iuktUKgCLcBGAs/s1600/13.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_14-555439ad7841046453f91c24b5a0b6e2.webp" alt="page-14" origin="http://1.bp.blogspot.com/-0ymM9k41Dzk/W2X6vb3Ge-I/AAAAAAAAQHw/FMqla0eFN7MNZKun30rPQia1IKXwqoqHwCLcBGAs/s1600/14.jpg?imgmax=0"><br/>
+<img src="toi-cuong-he-thong_0004_15-e75dfd8c54ffde5145c253babf64f213.webp" alt="page-15" origin="http://1.bp.blogspot.com/-PQffMzSCTGQ/W2X6wA_mkpI/AAAAAAAAQH0/aRVNdYVjE1k6WZuGtfFh91GFpYX-ZfDsACLcBGAs/s1600/15.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/toi-cuong-he-thong/chapter-5">chapter-5</a>

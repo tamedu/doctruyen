@@ -1,0 +1,21 @@
+{{ define "title" -}}
+    {{ .Site.Title }}
+{{- end }}
+{{ define "header" }}
+    {{ partial "menu.html" . }}
+{{ end }}
+{{ define "main" }}
+    <header>
+        <h1>{{ .Title }}</h1>
+    </header>
+    {{ with .Site.GetPage "/" }}
+          {{ range .Sections }}{{ if ne .URL "/" }}
+              <a href="{{ .URL }}">{{ .Title }}</a>
+              <!-- (<a href="{{ .URL }}chapter-1">1/{{ len .Pages }}</a>) -->
+              <br/><br/>
+          {{ end }}{{ end }}
+    {{ end }}
+{{ end }}
+{{ define "footer" }}
+    {{ partial "powered-by.html" . }}
+{{ end }}

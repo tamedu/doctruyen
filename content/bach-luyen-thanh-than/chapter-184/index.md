@@ -1,0 +1,19 @@
+{ "title": "bach-luyen-thanh-than/chapter-184", "weight": 184 }
+<img src="bach-luyen-thanh-than_0184_01-94cc96a24854c54ed925aa48665834b0.webp" alt="page-1" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-02.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_02-5810b8fd602168952ad90f7ffa568776.webp" alt="page-2" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-03.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_03-0222e78d2638515caf20eefbbae4d475.webp" alt="page-3" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-04.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_04-c8798e848152ad167ecbb64202125e07.webp" alt="page-4" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-05.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_05-621db19de0465fa441436ce08b6deab6.webp" alt="page-5" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-06.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_06-c092bac95fc180ac832adecb42f681a8.webp" alt="page-6" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-07.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_07-1d0aa9ef7df701dfa38adabed2466c58.webp" alt="page-7" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-08.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_08-391f8c725b8cc7c71078284faaa0b8f8.webp" alt="page-8" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-09.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_09-b15392e3e81d72852ad91e10fac01f3b.webp" alt="page-9" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-10.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_10-d859a9d87c4267a49d107ca6b74dc7c1.webp" alt="page-10" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-11.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_11-e9558456566fe88dfe363d18b28ddae1.webp" alt="page-11" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-12.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_12-f24f8361729ad0eeb99aa75f41f9c287.webp" alt="page-12" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-13.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_13-c75b61bf42690e47e6821b7d61241bcc.webp" alt="page-13" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-14.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_14-9ec279d3e52a561649ae5c1b35ed0894.webp" alt="page-14" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-15.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_15-b84d0524c480028344cdaa95d3f8991e.webp" alt="page-15" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-16.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_16-c2b2d9db6339d4847dcb4e1f332b5fc6.webp" alt="page-16" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-17.jpg"><br/>
+<img src="bach-luyen-thanh-than_0184_17-6cfbd4961829c3aed56d11e18508035d.webp" alt="page-17" origin="http://storage.fshare.vn/Test-vechai/1514610696-Bach-Luyen-Thanh-Than-Chapter-178-Tieng-viet-hamtruyencom-18.jpg"><br/>
+<br/><a class="nextchap" href="/bach-luyen-thanh-than/chapter-185">chapter-185</a>

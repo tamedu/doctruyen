@@ -1,0 +1,12 @@
+{ "title": "tinh-vo-than-quyet/chapter-86", "weight": 86 }
+<img src="tinh-vo-than-quyet_0086_01-d4e49bdbc85527fee37979929d452388.webp" alt="page-1" origin="http://1.bp.blogspot.com/-p2Up5k1cVwQ/Wbpa_mI5U_I/AAAAAAAAfqc/d4rMguBXvi8uhtwTnQ54l-cd5MNKYWYFwCLcBGAs/s1600/1.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_02-41c41772d03e14b303d95b744c548588.webp" alt="page-2" origin="http://1.bp.blogspot.com/-O4USoebeaXI/Wbpa_7RLZOI/AAAAAAAAfqg/tDkneeT_vvET4aHgtiRr0gONldQVR1OSgCLcBGAs/s1600/2.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_03-537b74afc296a3656070e23f037492ca.webp" alt="page-3" origin="http://1.bp.blogspot.com/-LJ_ZImUoa58/WbpbAUF7xwI/AAAAAAAAfqk/MDmzSOnYANIdYMPMaQP4BEmeift8hF8FgCLcBGAs/s1600/3.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_04-8c55c303e812b259c8f01e169d8eedff.webp" alt="page-4" origin="http://1.bp.blogspot.com/-eoI9RFJkfMY/WbpbAzpAJUI/AAAAAAAAfqo/I8hVWm4raQ4iFDR2QF4MznSZ-MY_IBs_gCLcBGAs/s1600/4.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_05-f456e038df433981010c1c7cb17f9a79.webp" alt="page-5" origin="http://1.bp.blogspot.com/-ypDRf6DmnwI/WbpbBR-2mWI/AAAAAAAAfqs/VqOTVbi9ewEg5XFmiaEtx_ZbNlCTcDGIQCLcBGAs/s1600/5.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_06-efd59eca476c0ec3bd173e6e9059d46a.webp" alt="page-6" origin="http://1.bp.blogspot.com/-V4HvFl3P734/WbpbBXNariI/AAAAAAAAfqw/dEcgWSCHnCk8qsoMMsDa043_Gj6Jc7FJwCLcBGAs/s1600/6.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_07-b00985b14a66b01aa6f9becfa6b86d0a.webp" alt="page-7" origin="http://1.bp.blogspot.com/-PRVQUQv2h2Q/WbpbBozqJ5I/AAAAAAAAfq0/M0O4yfE9i3QrZ9LUjaIDjAYBc6wldmGFwCLcBGAs/s1600/7.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_08-fa547bfc5d81ade4522e62a596b7141a.webp" alt="page-8" origin="http://1.bp.blogspot.com/-cpqzVlRhpxg/WbpbCWGi7jI/AAAAAAAAfq4/bVv1AoafnUkNJ9-QNI5kNc3ZS34yT0vwQCLcBGAs/s1600/8.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_09-9188020f12f3e793903bf537328e103a.webp" alt="page-9" origin="http://1.bp.blogspot.com/-HOVANhsiwMg/WbpbCnGr2cI/AAAAAAAAfq8/CXEFShfU6-ckXhxqr8MhnRfSGSJYPC_HACLcBGAs/s1600/9.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0086_10-34b46ec85f2be8cf08c77cdc52c8c71c.webp" alt="page-10" origin="http://1.bp.blogspot.com/-wYxgLwcxbOk/Wbpa_p8ZL6I/AAAAAAAAfqY/6fbpFkaoTq4ILhH5YvOZE_dBZNPWngM5ACLcBGAs/s1600/10.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/tinh-vo-than-quyet/chapter-87">chapter-87</a>

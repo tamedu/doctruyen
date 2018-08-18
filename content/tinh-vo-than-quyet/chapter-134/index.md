@@ -1,0 +1,11 @@
+{ "title": "tinh-vo-than-quyet/chapter-134", "weight": 134 }
+<img src="tinh-vo-than-quyet_0134_01-fe4c843c500a0417dd6caf9ba558627f.webp" alt="page-1" origin="http://1.bp.blogspot.com/-XcjtbXq_L60/Ws3fx9Hm7ZI/AAAAAAAAhQw/MwfEyfXsHBwrxLdMxQvX-DFnMZcXc5XHACLcBGAs/s1600/1.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0134_02-25053c3eb89467ae9134012ca6d0b1e6.webp" alt="page-2" origin="http://1.bp.blogspot.com/-MI7W_xy2Cco/Ws3fyP7w7PI/AAAAAAAAhQ4/-k1FzFnFY-wnWz_yJUznheJcS9UQjgpqACLcBGAs/s1600/2.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0134_03-85e06096cda902c8da376115082686c7.webp" alt="page-3" origin="http://1.bp.blogspot.com/-jox5ECwwVLs/Ws3fyJbg0II/AAAAAAAAhQ0/PSCZM6WuFzUkbu5261qyrg6GLOBK8wUqACLcBGAs/s1600/3.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0134_04-80f0763052771e66fdf1cd3410012d8e.webp" alt="page-4" origin="http://1.bp.blogspot.com/-wY1fpeVNPdI/Ws3fy5KJhmI/AAAAAAAAhQ8/TuOz32KZSx8cwdpLefH21g-wtC4Zk7B7gCLcBGAs/s1600/4.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0134_05-d7af05416dc7cabfc909dba926ee157b.webp" alt="page-5" origin="http://1.bp.blogspot.com/-bE1xEL_9RSQ/Ws3fy8d2PvI/AAAAAAAAhRA/XQdGrSZm2UMYSssr_kLDMw1taP-ze2QIwCLcBGAs/s1600/5.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0134_06-9602f1a5404b41b2542705e77ae6c529.webp" alt="page-6" origin="http://1.bp.blogspot.com/-kzj1mnGE8ZU/Ws3fzDGAiTI/AAAAAAAAhRE/gQE2qifkkL4V1bK_th5-ACTbbfRKiOJ3QCLcBGAs/s1600/6.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0134_07-a7c7a12e7576e4b5bbad9868880cc536.webp" alt="page-7" origin="http://1.bp.blogspot.com/-2xP4MFw6oig/Ws3fzS5OGfI/AAAAAAAAhRI/LjstikTPPxwcD8xdUkRu18IMVzEH_he3gCLcBGAs/s1600/7.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0134_08-ba83f4bcd9d3304fe1473dab49c1a006.webp" alt="page-8" origin="http://1.bp.blogspot.com/-iz_dAASrFC4/Ws3fzmty_SI/AAAAAAAAhRM/ZEZIVoR6ya8cvnCQrcFikIxqWtbUFUi7ACLcBGAs/s1600/8.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0134_09-850x1200-3400672ee1338951b6f61c087d88013a.webp" alt="page-9" origin="http://1.bp.blogspot.com/-nrzhi7sdVcE/Ws3fz-xGI_I/AAAAAAAAhRQ/rEeHVZ0ILLEMNL2J93g7PaVvEGUe7ddFQCLcBGAs/s1600/9.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/tinh-vo-than-quyet/chapter-135">chapter-135</a>

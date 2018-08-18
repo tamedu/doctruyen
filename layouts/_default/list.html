@@ -1,0 +1,19 @@
+{{ define "header" }}
+  {{ partial "menu.html" . }}
+{{ end }}
+{{ define "main" }}
+  <header>
+    <h1>{{ .Title }}</h1>
+  </header>
+{{ partial "chapters-selection" . }}<br/><br/>
+<div>{{- range $index, $page := .Pages }}
+    {{- if modBool $index 10 }}</div><div class="selectchap">{{ else }}&nbsp;{{- end }}
+    {{- $index := add $index 1 -}}
+    <a class="selectchap" href="{{ $page.URL }}">{{ printf "%03d" $index }}</a>
+{{- end }}</div>
+<br/><br/>- or -<br/><br/>
+<a href="{{ replaceRE "^(.+)/$" "$1-downloads.txt" .Permalink }}">Download image url list</a>
+{{ end }}
+{{ define "footer" }}
+  {{ partial "powered-by.html" . }}
+{{ end }}

@@ -1,0 +1,9 @@
+{ "title": "tinh-vo-than-quyet/chapter-168", "weight": 168 }
+<img src="tinh-vo-than-quyet_0168_01-8b697b08fd5c82a81d6c071b2a3142a1.webp" alt="page-1" origin="http://1.bp.blogspot.com/-9zLZjyrqqWM/W3U9p5KEZtI/AAAAAAAAFwA/Z3DpPwQHmL4BrX0gh7UjDvXMlbRwMsnxgCLcBGAs/s1600/0001.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0168_02-675224a3051d09d139f8b4a5bcd5a5eb.webp" alt="page-2" origin="http://1.bp.blogspot.com/-E0zQhiYgjgM/W3U9pnm_8eI/AAAAAAAAFv8/d87N_FHQnb4htV1WLe176jWGVAFzxuikACLcBGAs/s1600/0002.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0168_03-15641f0536c8ecfdf8a8ce842021c0e9.webp" alt="page-3" origin="http://1.bp.blogspot.com/-6VZ62cnL1PA/W3U9p48HMfI/AAAAAAAAFwE/GPNI0bEWH_cqcjIVQs2BBVE2KoFYVWArACLcBGAs/s1600/0003.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0168_04-4bada0a8ee06b1df8f27ac6c378c435d.webp" alt="page-4" origin="http://1.bp.blogspot.com/-mp1EJF3G3YM/W3U9qsZM3_I/AAAAAAAAFwI/bKy0-P-kzqoYcMcXu95DqYDooNi4jprqgCLcBGAs/s1600/0004.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0168_05-51ba13fbba498d40a6399e23fd70bd51.webp" alt="page-5" origin="http://1.bp.blogspot.com/-F2lKQ1RPmqA/W3U9qx0GHdI/AAAAAAAAFwM/6TQMF8jGByATRamO-nLt3a9ptW82sdJmwCLcBGAs/s1600/0005.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0168_06-08c1192ebf78d3455bda6d13d33ff171.webp" alt="page-6" origin="http://1.bp.blogspot.com/-5KSYNYg30nc/W3U9rHfYTOI/AAAAAAAAFwQ/hBX5500Bn4QZAfwBh6Cz1W_zRSUdq_TXgCLcBGAs/s1600/0006.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0168_07-98d0a7b6dbc62ec359fa9766bf185b14.webp" alt="page-7" origin="http://1.bp.blogspot.com/-qLFiRjq5bPg/W3U9rmqJbnI/AAAAAAAAFwU/T2LbBjmHQOIM7nwCo4JVp6SXRTHxUO6JwCLcBGAs/s1600/0007.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0168_08-8c720284f6378d3d87a76943aa38a37d.webp" alt="page-8" origin="http://1.bp.blogspot.com/-8DthxQCMYr8/W3U9rrFu3DI/AAAAAAAAFwY/20GfE3HJM3gVDZPGU687VKU2a0m7ERYKQCLcBGAs/s1600/0008.jpg?imgmax=0"><br/>

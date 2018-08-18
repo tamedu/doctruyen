@@ -1,0 +1,10 @@
+baseURL = "https://doctruyen.netlify.com/"
+languageCode = "vi-vn"
+title = "Truyện Tranh 3G"
+powered_by = false
+
+theme = [
+  "after-dark"
+]
+
+ignoreFiles = [ "/chapter-\\d+/.+\\.(jpg|png)$" ]

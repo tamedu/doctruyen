@@ -1,0 +1,15 @@
+{ "title": "tinh-vo-than-quyet/chapter-30", "weight": 30 }
+<img src="tinh-vo-than-quyet_0030_01-2c0f4f3a9ca9307526bc44b621292e21.webp" alt="page-1" origin="https://3.bp.blogspot.com/-hk32U4kn9Fg/WGovHJgy5JI/AAAAAAAMf6M/qNxIHPp-0-w/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-2.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_02-7ac8ef60d043f6834fecf471b99a8beb.webp" alt="page-2" origin="https://3.bp.blogspot.com/-wXPHnuT-C3A/WGovH0HWz4I/AAAAAAAMf6Q/TwyBN1Zq10o/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-3.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_03-55dae927b0e034d87fc13bec285d4bb3.webp" alt="page-3" origin="https://3.bp.blogspot.com/-chJstwiVfNM/WGovI1a0cbI/AAAAAAAMf6U/7ijII7NjbUE/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-4.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_04-53f589a565d4e4d6318d5daa79a3a169.webp" alt="page-4" origin="https://3.bp.blogspot.com/-lGC700lGL9U/WGovJvjLluI/AAAAAAAMf6Y/qNbcJzAt6WQ/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-5.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_05-38b59d94c8e7364136b6a4d0c5fe2ada.webp" alt="page-5" origin="https://3.bp.blogspot.com/-LxUU04EzcXk/WGovKcSa3iI/AAAAAAAMf6c/iSK-jm1gqSY/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-6.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_06-04591b7f712d0d35b2eaacb5a9e1f67a.webp" alt="page-6" origin="https://3.bp.blogspot.com/-xe6kbx7KdtQ/WGovLd0oBJI/AAAAAAAMf6g/5n89X4X1QgY/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-7.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_07-0f092b95501461e731736196aafb62cc.webp" alt="page-7" origin="https://3.bp.blogspot.com/-wvtc1VkWA4M/WGovMINLf5I/AAAAAAAMf6k/QHXAdVy55AA/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-8.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_08-9e71334cc8fa02b3c79f20b492600586.webp" alt="page-8" origin="https://3.bp.blogspot.com/-iOWDtrXANjM/WGovM0QOu-I/AAAAAAAMf6o/3-jv-7vOSpw/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-9.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_09-546d75e1537a8b53fdf802b746df8b06.webp" alt="page-9" origin="https://3.bp.blogspot.com/-th5klg728wc/WGovNgDpKzI/AAAAAAAMf6s/fph2-mu6Qiw/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-10.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_10-be02d0baad5a72ebede77a98427730e3.webp" alt="page-10" origin="https://3.bp.blogspot.com/-pLCOtuTl4EY/WGovOa980dI/AAAAAAAMf6w/1mAOQFNP0fs/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-11.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_11-08d9461572de4d94dd3ed4527a09942f.webp" alt="page-11" origin="https://3.bp.blogspot.com/-IRZsJnpmuzo/WGovPTxfXVI/AAAAAAAMf60/YlITHr3py_I/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-12.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_12-ce14356489a37d04c7d4a39ac6831371.webp" alt="page-12" origin="https://3.bp.blogspot.com/-qaVsccNjVGs/WGovQDk5ehI/AAAAAAAMf64/VEHHAjJQZIM/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-13.jpg"><br/>
+<img src="tinh-vo-than-quyet_0030_13-c03218eded590623d598115e4609395a.webp" alt="page-13" origin="https://3.bp.blogspot.com/-XVPIwBZNxx8/WGovQyXz-YI/AAAAAAAMf68/7heJViX6cOA/s0/Tinh-Vo-Than-Quyet-Chapter-30-P-14.jpg"><br/>
+<br/><a class="nextchap" href="/tinh-vo-than-quyet/chapter-31">chapter-31</a>

@@ -1,0 +1,27 @@
+#!/usr/bin/ruby
+
+require './crawler.rb'
+
+def parse_chapters(story)
+	list = Dir["#{story}/chapter*"].sort_by { |x| x.match(/\d+$/)[0].to_i }
+    list.each do |chapter|
+        puts "\n - Re-parsing #{chapter} ... "
+        if !File.size?("#{chapter}/crawled.html")
+            raise "ERROR #{chapter}/crawled.html not cached"
+            next
+        end
+        html = File.open("#{chapter}/crawled.html", 'r').read
+        chapnum = chapter.match(/\d+$/)[0].to_i
+        nextchap = list.last != chapter
+        Crawler.parse(html, story.sub(/.*content\//, ''), chapter, chapnum, nextchap)
+        # raise
+    end
+end
+
+
+(ARGV.empty? ? Dir["./content/*"] : ARGV).each do |story|
+    if File.directory? story
+        puts "\n---", story
+        parse_chapters(story)
+    end
+end

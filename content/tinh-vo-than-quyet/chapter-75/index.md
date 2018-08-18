@@ -1,0 +1,11 @@
+{ "title": "tinh-vo-than-quyet/chapter-75", "weight": 75 }
+<img src="tinh-vo-than-quyet_0075_01-98df1023410385fc2c2ad4f4995f24f3.webp" alt="page-1" origin="http://1.bp.blogspot.com/-54EJe3iOv4c/WXcg0H_nEuI/AAAAAAAAdE4/27ou6SHSoBcTHorwurBeYSAK7fl0ewWUQCLcBGAs/s1600/1.middle.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0075_02-06df15bc0ac596a4f807ae45b0ef0cb2.webp" alt="page-2" origin="http://1.bp.blogspot.com/-9MsyImyicpU/WXcg0IZuBQI/AAAAAAAAdE8/qEmvwH97Z2AeAHy4OACmm6OmhKADQW2igCLcBGAs/s1600/2.middle.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0075_03-9c39078435216019e310f3ef45238778.webp" alt="page-3" origin="http://1.bp.blogspot.com/-Xjfyo-01PkM/WXcg0xg5xcI/AAAAAAAAdFE/nRWdA7JXi7g14dOP8pc8F9LBTV5X84pRQCLcBGAs/s1600/3.middle.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0075_04-a920c0bd54bafa754fefefacaaf013b7.webp" alt="page-4" origin="http://1.bp.blogspot.com/-R2rdJyCa1Ec/WXcg069fHBI/AAAAAAAAdFI/s80wndn-jxc8qyQnLkh47FtuvlO3DhiVQCLcBGAs/s1600/4.middle.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0075_05-98ebb85f64e1623277d8b328b4891d9b.webp" alt="page-5" origin="http://1.bp.blogspot.com/-0ZRRK6SlUN4/WXcg1C9z8cI/AAAAAAAAdFM/Gd0QNcBL2g4ojomLxxU-yBILkwPYcVogACLcBGAs/s1600/5.middle.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0075_06-ee15ac1fa051a96c3e3813561e08f13e.webp" alt="page-6" origin="http://1.bp.blogspot.com/-MLUHanH7Qf8/WXcg1pVp9bI/AAAAAAAAdFQ/lTAEQXgwJbggH81Kk31-nwzPt4a4BmgmgCLcBGAs/s1600/6.middle.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0075_07-b70b277e9ce77715fcc6582a24ac89ce.webp" alt="page-7" origin="http://1.bp.blogspot.com/-UfTmEYq3PEI/WXcg1teuIFI/AAAAAAAAdFU/Bz9giL5EUjQ0EaouEIzPxqOp9phQkxWjgCLcBGAs/s1600/7.middle.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0075_08-32222cb6228448ee23a18ee98f3cdedb.webp" alt="page-8" origin="http://1.bp.blogspot.com/-yzm4eCy1WzI/WXcg1guEcJI/AAAAAAAAdFY/d4oDv3pFExgOklIjpjrFIi-b4FmANX72ACLcBGAs/s1600/8.middle.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0075_09-ca8c6a967cbf3a257354592d2e96d49d.webp" alt="page-9" origin="http://1.bp.blogspot.com/-z5eyT_K-4JI/WXcg2fwIFeI/AAAAAAAAdFc/4uSeyEdUK7AXWiiQxQHPlkAzg0mHZAs4ACLcBGAs/s1600/9.middle.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/tinh-vo-than-quyet/chapter-76">chapter-76</a>

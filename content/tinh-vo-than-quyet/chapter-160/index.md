@@ -1,0 +1,12 @@
+{ "title": "tinh-vo-than-quyet/chapter-160", "weight": 160 }
+<img src="tinh-vo-than-quyet_0160_01-16d020319cc0fa4cfddd97463346c18f.webp" alt="page-1" origin="http://1.bp.blogspot.com/-jh3oDr9aD3A/W1A7xQYBewI/AAAAAAAAHY0/J8yHKdJu1GUKaljOS0ogU62pEL6IdUsggCLcBGAs/s1600/1.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_02-bb18427798e45ada6fc0af2088743492.webp" alt="page-2" origin="http://1.bp.blogspot.com/-5ucfd0pYK8E/W1A7xQ1QNaI/AAAAAAAAHY4/DA6MIoW9wa8Ep_lB3V7CGX_hy-7cx-bOgCLcBGAs/s1600/2.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_03-6272f553b7a327bd9fda3ae8a239cbfb.webp" alt="page-3" origin="http://1.bp.blogspot.com/-wI9tjRnC-hc/W1A7yT9qdvI/AAAAAAAAHZA/pwHSbvqcgakJo1ZRf_5i2ylZkOeU4fjEQCLcBGAs/s1600/3.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_04-661e713b65be8b176abcbaa59b438a0b.webp" alt="page-4" origin="http://1.bp.blogspot.com/-7CkQeGvbg6w/W1A7yuKMYSI/AAAAAAAAHZE/EBLnKzotcHQEAYvqOP83ZnvKxJmb9h4NACLcBGAs/s1600/4.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_05-d0d5c61135bda9e1eec861380a19fd1b.webp" alt="page-5" origin="http://1.bp.blogspot.com/-sD00KNnVCas/W1A7ymAF7bI/AAAAAAAAHZI/0gNuCdkNl6cFHGS2n4hbU7JHh5Mb830fQCLcBGAs/s1600/5.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_06-684cdb882c329433cad68a587ac42afd.webp" alt="page-6" origin="http://1.bp.blogspot.com/-n-n83v01ErE/W1A7y-AGmXI/AAAAAAAAHZM/nKQllhiwGcUdaDaXe-Dg2rhkr9SRLnZbwCLcBGAs/s1600/6.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_07-776d9b184f411c191818ab4bc54e8a04.webp" alt="page-7" origin="http://1.bp.blogspot.com/-mXOnfSiZYIk/W1A7zDjYcAI/AAAAAAAAHZQ/_uwYQjEl1XEFMGf_7ipTkvO9r3FBXr9UACLcBGAs/s1600/7.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_08-4d1e63dc475c9648e228b8b6bb68019e.webp" alt="page-8" origin="http://1.bp.blogspot.com/-fPYxukOlaDk/W1A7zTPyaJI/AAAAAAAAHZU/lIdWucN5il8DT2iIuAsH9jKMUBbJb7zsgCLcBGAs/s1600/8.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_09-bdc56bc9c7099b5eba8c10c4d44bd647.webp" alt="page-9" origin="http://1.bp.blogspot.com/-86KAKZtLm3U/W1A7zaiBu3I/AAAAAAAAHZY/iTAiKp2lFj49T2DFPMdh0nCOPlxLG0mUwCLcBGAs/s1600/9.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0160_10-3c333b14a5b0b313e317d7af126a6422.webp" alt="page-10" origin="http://1.bp.blogspot.com/-nKXMsTCbWgU/W1BNuLCF6MI/AAAAAAAAjC8/LZUE_S0lr_okeM7aXJT_BzMb15fqEe8XwCLcBGAs/s1600/0014.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/tinh-vo-than-quyet/chapter-161">chapter-161</a>

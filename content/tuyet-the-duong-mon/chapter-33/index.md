@@ -1,0 +1,10 @@
+{ "title": "tuyet-the-duong-mon/chapter-33", "weight": 33 }
+<img src="tuyet-the-duong-mon_0033_01-ef5d6b2b584c05b625f0991d79e567ab.webp" alt="page-1" origin="http://1.bp.blogspot.com/-0YecV79qZP0/VQ16WLArwhI/AAAAAAAAxXg/quJgnyBBJJ4/d/Dau-La-Dai-Luc-2-chap-32-tieng-viet-ve-chai-02.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0033_02-04978e309213dd4de07c409b9d90b823.webp" alt="page-2" origin="http://1.bp.blogspot.com/-8WJE0mQjNYY/VQ16b-x_FbI/AAAAAAAAxXw/D1TViKLPr-4/d/Dau-La-Dai-Luc-2-chap-32-tieng-viet-ve-chai-03.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0033_03-f94c4c53cba208de1472cb3fe67a6d80.webp" alt="page-3" origin="http://1.bp.blogspot.com/-lAL3JUfc6cE/VQ16VrdS70I/AAAAAAAAxXc/4qoVoqqAqEc/d/Dau-La-Dai-Luc-2-chap-32-tieng-viet-ve-chai-04.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0033_04-543a8d06653b4e664c16b92b2605ef4b.webp" alt="page-4" origin="http://1.bp.blogspot.com/-3VT7Ex2MIx4/VQ16a9bALoI/AAAAAAAAxXo/7-Ed8OAP6FM/d/Dau-La-Dai-Luc-2-chap-32-tieng-viet-ve-chai-05.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0033_05-ad412a235dcd51127f8c9bffc0f9a32b.webp" alt="page-5" origin="http://1.bp.blogspot.com/-IzAU1aRk0pY/VQ16glXRC6I/AAAAAAAAxX8/3mbuiFYIJnk/d/Dau-La-Dai-Luc-2-chap-32-tieng-viet-ve-chai-06.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0033_06-824aa6ddb9725a47b9aaf5d60e0a4c3e.webp" alt="page-6" origin="http://1.bp.blogspot.com/-Zb10J-ROnio/VQ16hfIRbxI/AAAAAAAAxYA/9SQCQVAyfWA/d/Dau-La-Dai-Luc-2-chap-32-tieng-viet-ve-chai-07.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0033_07-35f95aed13737bdf6912fc9fec03a115.webp" alt="page-7" origin="http://1.bp.blogspot.com/-ZLQRXFrREFo/VQ16liDQunI/AAAAAAAAxYI/8OcYkpRB5RI/d/Dau-La-Dai-Luc-2-chap-32-tieng-viet-ve-chai-08.jpg?imgmax=0"><br/>
+<img src="tuyet-the-duong-mon_0033_08-2b298ce36fd6e12f32e5e55de28942e3.webp" alt="page-8" origin="http://1.bp.blogspot.com/-XjizCpBvU38/VQ16mpG8-mI/AAAAAAAAxYQ/KfED6I2hNzE/d/Dau-La-Dai-Luc-2-chap-32-tieng-viet-ve-chai-09.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/tuyet-the-duong-mon/chapter-34">chapter-34</a>

@@ -1,0 +1,17 @@
+img, canvas {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+a.nextchap {
+    width: 100%;
+    display: block;
+    text-align: center;
+    border: 1px solid #ff2e88;
+    padding: 11px;
+}
+
+div.selectchap {
+    margin-top: 8px;
+}

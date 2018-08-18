@@ -1,0 +1,11 @@
+{ "title": "tinh-vo-than-quyet/chapter-128", "weight": 128 }
+<img src="tinh-vo-than-quyet_0128_01-4a887bfff76eddd00324ee73b553e437.webp" alt="page-1" origin="http://1.bp.blogspot.com/-Udxj7PMRYAE/WqzY6oV5nCI/AAAAAAAALc4/YEAkSAoHcMQ52W5pcDYcH965Ej27Ds2hACLcBGAs/s1600/1.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0128_02-611e52406ebeaa8812f4839392c867e5.webp" alt="page-2" origin="http://1.bp.blogspot.com/-Jw9r7jqaBGU/WqzY6z6OjsI/AAAAAAAALc8/kb5AK_mbr4glnR5ZI6sRl-gzP7CKYB-fACLcBGAs/s1600/2.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0128_03-ae3df0be05d200b36e48cd43dd3b9c41.webp" alt="page-3" origin="http://1.bp.blogspot.com/-Id6PncUzDbU/WqzY64xcf6I/AAAAAAAALdA/H17ItPkqTNMpWlbt4kB-4Teg78LSHKltwCLcBGAs/s1600/3.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0128_04-b4158355619c17407a47604291d78c32.webp" alt="page-4" origin="http://1.bp.blogspot.com/-v7Kum_mjnMs/WqzY7a788eI/AAAAAAAALdE/_C5ljkURAlsG1hugZta814JYXtP_qZGBQCLcBGAs/s1600/4.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0128_05-68de11f3c72dcc3cfb3888c8d7ba3b1a.webp" alt="page-5" origin="http://1.bp.blogspot.com/-brio4pH8OII/WqzY7sPQsyI/AAAAAAAALdI/VhwvM3cgIK0tj7Nzn91Y0Wh0KDERLapVgCLcBGAs/s1600/5.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0128_06-47a7bd310dd367db529ff27f14d5a18c.webp" alt="page-6" origin="http://1.bp.blogspot.com/-xWQUrulR0KM/WqzY72bik2I/AAAAAAAALdM/TVCOBIAuwFUzs3wK9lrdcskmVGGFa6rNwCLcBGAs/s1600/6.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0128_07-1e41221bd7ea94911aa694b225cea8b0.webp" alt="page-7" origin="http://1.bp.blogspot.com/-geHc3nnpNoQ/WqzY8CbzQ3I/AAAAAAAALdQ/6gBBrYrgU_wn62KRDLrBOfiwkCt3jXN_ACLcBGAs/s1600/7.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0128_08-7596164ea168f8a608c87b69c4cb77f8.webp" alt="page-8" origin="http://1.bp.blogspot.com/-3RQPFOWQlqw/WqzY8vITJ5I/AAAAAAAALdU/T-9tiYIo4iwle3fHOwFZb41hfarA306OACLcBGAs/s1600/8.jpg?imgmax=0"><br/>
+<img src="tinh-vo-than-quyet_0128_09-850x1191-2ab87320183dc5f7a3461939938e8ff2.webp" alt="page-9" origin="http://1.bp.blogspot.com/-obRJu48m8s4/WqzY8ss8qJI/AAAAAAAALdY/yGnwOMXEzagTeV3zqoesvXvI1j9ilotswCLcBGAs/s1600/9.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/tinh-vo-than-quyet/chapter-129">chapter-129</a>

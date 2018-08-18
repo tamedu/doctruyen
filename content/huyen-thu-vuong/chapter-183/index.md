@@ -1,0 +1,13 @@
+{ "title": "huyen-thu-vuong/chapter-183", "weight": 183 }
+<img src="huyen-thu-vuong_0183_01-5767aa96d9f20deb7ab822d2709e02d4.webp" alt="page-1" origin="http://1.bp.blogspot.com/-VFSi5PfhtdU/WaVAoXyTDfI/AAAAAAAAfbo/aQ5V5Ydnl2ImbKTKdHLcSAF1uaX6Wz7HgCLcBGAs/s1600/1.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_02-849df979ab655b72aeb861130ef1131a.webp" alt="page-2" origin="http://1.bp.blogspot.com/-QVZLW-tl8FQ/WaVAplsmcHI/AAAAAAAAfb0/VFgMFBeh4zQi3VouhQHUKFmuor609j_5gCLcBGAs/s1600/2.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_03-3b525cd1d8c8272f636582d1d6a26d5e.webp" alt="page-3" origin="http://1.bp.blogspot.com/-N2sOkxUNQyM/WaVAp1Z3Y6I/AAAAAAAAfb4/W1iszbxlV8oaPCcuroc67CBdKiiAHoHuwCLcBGAs/s1600/3.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_04-745d3000730bb17539dd48bd086a59e8.webp" alt="page-4" origin="http://1.bp.blogspot.com/-BxHgM8dHq0M/WaVAqIKO9zI/AAAAAAAAfb8/izpegrzC4pUjOWoiA8ENR7joHRfVcY4HACLcBGAs/s1600/4.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_05-554b9c9e39dc113dfe654364bf600711.webp" alt="page-5" origin="http://1.bp.blogspot.com/-bWSodI4j_o8/WaVAqiTvBLI/AAAAAAAAfcA/izlWsKBuLXYUvCeR1TSMVmwGxk6RfH15gCLcBGAs/s1600/5.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_06-2523153b80cb625044fc036fcbc1955c.webp" alt="page-6" origin="http://1.bp.blogspot.com/-Lvz44EhYGu4/WaVAq24Do3I/AAAAAAAAfcE/juNcHeSPKy4Wxl8exwLtZUhUBlbjbZ45QCLcBGAs/s1600/6.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_07-9c1f4e3baf4cd661a5f388727c8d12ee.webp" alt="page-7" origin="http://1.bp.blogspot.com/-L93YHeZMIOI/WaVArCgm7pI/AAAAAAAAfcI/D_ezAXqibW4RBUXOCWgP1cRr3qIqbVsIQCLcBGAs/s1600/7.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_08-8367b5cad1c4a7b6a8ca6431f4451096.webp" alt="page-8" origin="http://1.bp.blogspot.com/-lpmMocvCxx0/WaVArlVYpKI/AAAAAAAAfcM/Ow0_qTeeMCYtpTFOIwk-QwD5storDTeaACLcBGAs/s1600/8.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_09-2186f3ee0b801bc0e1e7b9b96fe372cc.webp" alt="page-9" origin="http://1.bp.blogspot.com/-p55bKXycIK0/WaVAsL5CFEI/AAAAAAAAfcQ/MFOUzWTL6tgJ7T0w6xjeE3H3VucZ-D_tQCLcBGAs/s1600/9.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_10-d65dcacb6d28ee8ab7347d1a5a1c99e2.webp" alt="page-10" origin="http://1.bp.blogspot.com/-vd8v11UR_qE/WaVAoUUUFbI/AAAAAAAAfbs/0BVG17fdQi8bFlBa_5QvLRjf3hnThtuPACLcBGAs/s1600/10.jpg?imgmax=0"><br/>
+<img src="huyen-thu-vuong_0183_11-17296a652bf120c3446755a68ba43888.webp" alt="page-11" origin="http://1.bp.blogspot.com/-lAU3_MG4x4U/WaVApf6yjII/AAAAAAAAfbw/qMR7Fe7jRZkZC0cbO-Op3Ni3ikm2cvixACLcBGAs/s1600/11.jpg?imgmax=0"><br/>
+<br/><a class="nextchap" href="/huyen-thu-vuong/chapter-184">chapter-184</a>
