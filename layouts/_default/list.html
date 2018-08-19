@@ -7,8 +7,8 @@
   </header>
 {{ partial "chapters-selection" . }}<br/><br/>
 <div>{{- range $index, $page := .Pages }}
-    {{- if modBool $index 10 }}</div><div class="selectchap">{{ else }}&nbsp;{{- end }}
-    <a class="selectchap" href="{{ $page.URL }}">{{ printf "%03d" $page.Params.weight }}</a>
+    {{- if modBool $index 10 }}</div><div class="selectchap">{{- end }}
+    <a {{ if modBool $index 9 }}class="last"{{ end }} href="{{ $page.URL }}">{{ printf "%03d" $page.Params.weight }}</a>
 {{- end }}</div>
 <br/><br/>- or -<br/><br/>
 <a href="{{ replaceRE "^(.+)/$" "$1-downloads.txt" .Permalink }}">Download image url list</a>

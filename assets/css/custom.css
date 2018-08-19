@@ -12,6 +12,15 @@ a.nextchap {
     padding: 11px;
 }
 
+
 div.selectchap {
     margin-top: 8px;
+}
+
+div.selectchap a {
+	margin-right: 1em;
+}
+
+div.selectchap a.last {
+	margin-right: 0;
 }
