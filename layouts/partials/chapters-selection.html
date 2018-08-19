@@ -2,13 +2,12 @@
 {{- if eq .Kind "section"}}
     <option value="" selected="true">- select a chapter -</option>
     {{- range $index, $page := .Pages }}
-    <option value="{{ $page.URL }}">chap {{ $page.weight }}</option>
-
+    <option value="{{ $page.URL }}">chap {{ $page.Params.weight }}</option>
     {{- end }}
 {{- else }}
     {{- $currentLink := .URL }}
     {{- range $index, $page := .Parent.Pages }}
-    <option value="{{ $page.URL }}" {{ if (eq $currentLink $page.URL) }}selected="true"{{ end }}>chap {{ $page.weight }}</option>
+    <option value="{{ $page.URL }}" {{ if (eq $currentLink $page.URL) }}selected="true"{{ end }}>chap {{ $page.Params.weight }}</option>
     {{- end }}
 {{- end }}
 </select>
