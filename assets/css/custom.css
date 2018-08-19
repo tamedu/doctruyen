@@ -18,9 +18,9 @@ div.selectchap {
 }
 
 div.selectchap a {
-	margin-right: 1em;
+	margin-right: 0em;
 }
 
 div.selectchap a.last {
-	margin-right: 0;
+	margin-right: 0em;
 }
